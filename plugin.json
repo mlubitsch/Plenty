@@ -1,0 +1,8 @@
+{
+    "name"              :"Plentyapp",
+    "description"       :"Test",
+    "namespace"         :"PlentyApp",
+    "author"            :"Marc Lubitsch",
+    "type"              :"template",
+    "serviceProvider"   :"Plentyapp\\Providers\\Test"
+}
